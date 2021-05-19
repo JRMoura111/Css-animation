@@ -18,7 +18,7 @@
    100%{color: rgb(153, 0, 255); font-size: 2em;left: 50%; top: 50%;}
 }
 body{position: relative;
-background-image: url("img.jpg");
+background-image: url("./img.jpg");
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
